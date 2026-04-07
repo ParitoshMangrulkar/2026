@@ -1,0 +1,22 @@
+name: External Trigger
+
+on:
+  workflow_dispatch:
+    inputs:
+      source_app:
+        description: "Who triggered this workflow"
+        required: true
+        type: string
+      environment:
+        description: "Target environment"
+        required: true
+        type: string
+
+jobs:
+  run:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Print inputs
+        run: |
+          echo "Triggered by: ${{ inputs.source_app }}"
+          echo "Environment: ${{ inputs.environment }}"
