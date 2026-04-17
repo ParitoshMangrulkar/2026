@@ -41,6 +41,9 @@ Direct Cognition Transfer: Vijoy Pandey explains that instead of forcing an agen
 
 **"Brain-to-Brain"** Communication: Because the KV cache represents the model's internal understanding of the input, transferring it is analogous to a "neural link" between two AIs. This allows them to "think together" instantly without the loss of detail or the latency inherent in semantic conversation
   
+
+ https://github.com/promptfoo/promptfoo?tab=readme-ov-file
+
  
 
 
