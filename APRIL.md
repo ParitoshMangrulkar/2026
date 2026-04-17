@@ -1,3 +1,5 @@
+KV cache: https://huggingface.co/blog/not-lain/kv-caching
+
 https://medium.com/@visrow/a2a-mcp-ag-ui-a2ui-the-essential-2026-ai-agent-protocol-stack-ee0e65a672ef
 https://a2ui.org/
 
