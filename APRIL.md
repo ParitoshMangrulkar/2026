@@ -1,5 +1,9 @@
 KV cache: https://huggingface.co/blog/not-lain/kv-caching
 
+https://towardsdatascience.com/6-things-i-learned-building-llms-from-scratch-that-no-tutorial-teaches-you/
+
+
+
 https://medium.com/@visrow/a2a-mcp-ag-ui-a2ui-the-essential-2026-ai-agent-protocol-stack-ee0e65a672ef
 https://a2ui.org/
 
