@@ -1,4 +1,7 @@
 Here are the top 10 takeaways:
+
+**Agentic Data Cloud : Universal Context Driven by Intent, Delivered at Scale.**
+
 Specially cross cloud lakehouse. 
 
 1. The Agentic Blueprint (14:53): Google introduces a unified architecture where AI agents act as the connective tissue between data, people, and business objectives.
