@@ -20,3 +20,17 @@ Specially cross cloud lakehouse.
 9. Workspace Intelligence (1:41:15): A unified intelligence layer across Google Workspace designed to eliminate "context tax," allowing AI to pull information from emails, chats, and files automatically.
 
 10. Scalable Production Deployment (1:36:22): Real-world success stories—such as YouTube TV and Unilever—showcase that these tools are already in production, helping businesses automate complex customer experiences and operational tasks in weeks rather than months.
+
+11. Agentic Data Cloud : Trusted business context necessary for decisive action. 
+
+12. Knowledge Catalog:  Universal context engine that maps structured data (via BigQuery) and unstructured data (via Google Cloud Storage) into unified business logic. It automatically tags, enriches, and extracts entities from files like PDFs and images without manual engineering.
+
+13. Data Agent Kit: A Gemini-powered data science experience that integrates into existing developer tools (e.g., VS Code, Gemini CLI), allowing users to declare intent and have the system autonomously build pipelines and deploy models.
+
+14. Lightning Engine for Apache Spark: A rebuilt engine designed for extreme scale, offering up to 2x the price-performance of previous market leaders to handle agentic workloads.
+
+15. Cross-Cloud Lakehouse: Addressing the challenge of fragmented data, the Cross-Cloud Lakehouse allows your analytical engine to reason over data regardless of where it resides. Borderless Architecture: Built on the open Apache Iceberg standard, it provides low-latency, direct connectivity to AWS and Azure.
+
+Eliminating Barriers: It removes the need for complex data migrations or costly egress fees, effectively treating external data as if it were natively stored in Google Cloud.
+
+
