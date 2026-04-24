@@ -36,4 +36,7 @@ Specially cross cloud lakehouse.
 
 Eliminating Barriers: It removes the need for complex data migrations or costly egress fees, effectively treating external data as if it were natively stored in Google Cloud.
 
+https://codelabs.developers.google.com/next26/adk-agent2agent?hl=en#0
+
+
 
