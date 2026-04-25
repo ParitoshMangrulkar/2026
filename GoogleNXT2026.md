@@ -4,7 +4,7 @@ Day1: vision + big announcements day.
 
 Day2: Platform, agents, data + ecosystem:
 
-       MCP is all GCP products.
+       MCP is in all GCP products.
 
 Day3: Real-world usage, productivity, security, scaling
 
