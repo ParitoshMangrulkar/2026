@@ -1,8 +1,11 @@
 
 
 Day1: vision + big announcements day.
+
 Day2: Platform, agents, data + ecosystem
+
 Day3: Real-world usage, productivity, security, scaling
+
 
 
 Here are the top 10 takeaways:
